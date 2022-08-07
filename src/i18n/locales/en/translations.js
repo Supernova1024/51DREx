@@ -1,0 +1,23 @@
+export const TRANSLATIONS_EN = {
+    intro: "INITIATIVE",
+    faq: 'FAQs',
+    projects: 'PROJECTS',
+    video: 'Play Video',
+    video_below_title: 'Decentralized power supply network clean with proprietary infrastructure distributed.',
+    video_below_description: 'DREx is the first network of energy prosumers, qualified technicians, final energy consumers and parties in need of offsetting carbon emissions, which operates under a smart contract and seeks to accelerate access to clean energy in Latam.',
+    obtain_title: 'Are you a sustainable-minded person seeking to carry out concrete actions to mitigate climate change?',
+    obtain_description: 'Become a DREx prosumer by investing in clean energy projects and get an annual return of top up to 10% by selling energy over the life expectancy of the project.(20-25 years)',
+    obtain_btn: "Get a DREx's",
+    register_title: 'Are you a company (SME) interested in consuming clean energy and the lack of capital stop you?',
+    register_description: "Get a DREx token and demonstrate your early participation in the race to achieve net zero emissions by 2050.",
+    register_btn: 'Register your project',
+    integrate_title: 'Are you a company/person with demonstrable experience in the assembly of solar/wind plants?',
+    integrate_description:'Be part of the first network of qualified technicians in the integration of clean energy projects, acquire economic independence and adequate remuneration according to your level of expertise.',
+    integrate_btn: 'Become an integrator',
+    offset_title: 'Are you a company in need of carbon emissions offset?',
+    offset_description: "We tokenize the energy production from renewable plants, certifying it proven standards, guaranteeing clean energy source and equivalent emissions avoided.",
+    offset_btn: 'Offset your emissions',
+    project_btn: 'Projects',
+    footer_description: 'All rights reserved.',
+    contact: 'Contact us'
+};

@@ -1,0 +1,23 @@
+export const TRANSLATIONS_ES = {
+    intro: "INICIATIVA",
+    faq: 'FAQs',
+    projects: 'PROYECTOS',
+    video: 'Reproducir vídeo',
+    video_below_title: 'Red descentralizada de suministro de energia  limpia con infraestructura de propiedad distribuida.',
+    video_below_description: 'DREx  es la primera red de prosumers energeticos, tecnicos calificados, consumidores de energia final y partes en necesidad de compensacion de emisiones de carbono, que opera bajo un contrato inteligente y busca acelerar el acceso a energias limpias en Latam.',
+    obtain_title: '¿Eres una persona que le mueve la sostenibilidad y busca realizar acciones concretas para mitigar el cambio climatico?',
+    obtain_description: 'Obten un token DREx y demuestra tu participacion temprana en la carrera por lograr cero emisiones al 2050.',
+    obtain_btn: 'Obten un DREx’s ',
+    register_title: '¿Eres una empresa (SME) interesada en consumir energia limpia y te detiene la falta de capital?',
+    register_description: 'Consigue hasta un 20% de ahorro energetico,  integrando energia renovanle en tu negocio con cero capital, SI, con cero capital. Firmaras un acuerdo de compra de energia con los prosumidores DREx durante la vida util de la planta de energia.',
+    register_btn: 'Registra tu proyecto',
+    integrate_title: '¿Eres una persona/empresa con experiencia demostrable en montaje de plantas solares/eolicas?',
+    integrate_description: 'Se parte de la primera red de tecnicos calificados en integracion de proyectos de energias limpias, adquiere independencia economica y una remuneracion adecuada segun tu nivel de expertise.',
+    integrate_btn: 'Conviertete en un integrador',
+    offset_title: '¿Eres una empresa y necesitas compensar tus emisiones de carbono en el mercado regulado?',
+    offset_description: 'Tokenizamos la produccion de energia de plantas renovables, certificandola bajo estandares probados, garantizando la produccion de energia limpia y las emisiones evitadas equivalentes.',
+    offset_btn: 'Compensa tus emisiones',
+    project_btn: 'Proyectos',
+    footer_description: 'Todos los derechos reservados.',
+    contact: 'Contacta con nosotros'
+};
